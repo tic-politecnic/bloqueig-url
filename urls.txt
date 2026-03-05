@@ -20,3 +20,15 @@
 ||kongregate.com^
 ||playhop.com^
 ||isladejuegos.com^
+||dola.com^
+||loldle.net^
+||loldle.org^
+||gamedle.wtf^
+||pokedle.com^
+||pokedle.net^
+||pokedle.app^
+||smashdle.net^
+||footdle.com^
+||foot-le.com^
+||chess.com^
+||lichess.org^
